@@ -1,0 +1,8 @@
+Bluzenko;Silpo;ATB;Rukavuchka;Kolibris
+Quality product:0.25;8;10;6;9;7
+Price:0.15;7;6;10;8;9
+Service:0.25;9;10;6;9;8
+Quantity of goods:0.2;9;10;7;9;8
+Currency:0.15;8;10;6;9;8
+
+
